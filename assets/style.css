@@ -1,0 +1,52 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+
+
+.navbar {
+    background-color: grey;
+
+}
+
+
+.logo_nav {
+    max-width: 50%;
+    padding: 1rem;
+}
+
+.inputs_nav {
+    max-width: 50%;
+    text-align: center;
+    flex-direction: row-reverse;
+}
+
+.propic {
+    border: 24px;
+    height: 50%;
+    width: 50%;
+    background-color: white;
+}
+
+.aside {
+    background-color: grey;
+    flex-direction: column;
+    padding: 20px;
+    width: 200px;
+    height: 800px;
+}
+
+
+.imgs {
+    gap: 1rem;
+}
+
+.img_div {
+    background-color: grey;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+
+}
